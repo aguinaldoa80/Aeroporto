@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1524677315 source:/home/master/Documentos/Projects C-C++/Aeroporto/main.c
+	<stdio.h>
+	<stdlib.h>
+
